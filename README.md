@@ -1,1 +1,1 @@
-# Training_an_image_classifier_CIFAR10
+#CIFAR-10 Image Classification with CNN
